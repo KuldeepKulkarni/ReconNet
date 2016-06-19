@@ -1,4 +1,4 @@
-name: "SRCNN"
+name: "ReconNet"
 input: "data"
 input_dim: 64
 input_dim: 1
