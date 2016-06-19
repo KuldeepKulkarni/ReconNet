@@ -3,10 +3,10 @@ close all
 clc
 
 %% Select measurement rate (MR): 0.25, 0.10, 0.04 or 0.01
-mr = '0.01';
+mr = '0.25';
 mr_str = mr(3:end);
 
-fprintf('Measurement Rate = %f \n', mr)
+fprintf('Measurement Rate = %s \n', mr)
 
 %% Initializations
 
