@@ -18,7 +18,7 @@ test_images = test_images(3:end);
 output_dir = ['./reconstruction_results/mr_0_', mr_str, '/'];
 
 % Initialize Caffe
-addpath(genpath('../matlab'))
+addpath(genpath('../../../matlab'))
 try
     caffe.reset_all();
 catch
