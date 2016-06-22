@@ -1,4 +1,4 @@
-cd Train
+cd train
 
 # Get training data (Note that this data is downloaded from SRCNN website: http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
 
