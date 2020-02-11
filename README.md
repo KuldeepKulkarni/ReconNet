@@ -1,8 +1,8 @@
 # [ReconNet: Non-Iterative Reconstruction of Images From Compressively Sensed Measurements](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kulkarni_ReconNet_Non-Iterative_Reconstruction_CVPR_2016_paper.pdf)
-[Kuldeep Kulkarni](http://www.public.asu.edu/~kkulkar1/), [Suhas Lohit](https://www.linkedin.com/in/suhaslohit), [Pavan Turaga](http://www.public.asu.edu/~pturaga/Welcome.html), [Ronan Kerviche](http://wp.optics.arizona.edu/trifimaging/trif-imaging-fellows/ronan-kerviche/), [Amit Ashok](http://fp.optics.arizona.edu/ashoka/HomeSite/Home.html),
+[Kuldeep Kulkarni](https://kuldeepkulkarni.github.io/), [Suhas Lohit](https://www.linkedin.com/in/suhaslohit), [Pavan Turaga](https://pavanturaga.com/), [Ronan Kerviche](http://wp.optics.arizona.edu/trifimaging/trif-imaging-fellows/ronan-kerviche/), [Amit Ashok](http://fp.optics.arizona.edu/ashoka/HomeSite/Home.html),
 [The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016] (http://cvpr2016.thecvf.com/), pp. 449-458. 
 
-Project Page: http://www.public.asu.edu/~kkulkar1/reconnet.htm
+Project Page: https://kuldeepkulkarni.github.io/reconnet.htm
 ## Introduction:
 ReconNet is a non-iterative and an extremely fast algorithm to reconstruct images from compressively sensed (CS) random measurements. In the paper, we show significant improvements in reconstruction results (both in terms of PSNR and time complexity) over state-of-the-art iterative CS reconstruction algorithms at various measurement rates. The code provided here helps one to reproduce some of the results presented in the paper.
 
